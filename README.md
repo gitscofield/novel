@@ -1,2 +1,1 @@
-# novel
-for novel seo
+novel
